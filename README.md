@@ -31,7 +31,7 @@ python -m spacy download en_core_web_sm
 
 
 
-# Q1) NLP Preprocessing Pipeline
+## Q1) NLP Preprocessing Pipeline
 ## Description:
 This project demonstrates a simple NLP preprocessing pipeline in Python using the NLTK library. The pipeline performs the following steps:
 
@@ -43,26 +43,10 @@ This project demonstrates a simple NLP preprocessing pipeline in Python using th
 ```text
 "NLP techniques are used in virtual assistants like Alexa and Siri."
 
-# Named Entity Recognition (NER) with spaCy
-
-## Student Details:
-- *Name*: Lokesh Reddy Siripireddy
-## Project Description:
-This project demonstrates how to perform Named Entity Recognition (NER) using the spaCy library in Python. The script analyzes a sentence to identify named entities such as people, places, dates, and more. It prints the entity text, its label, and the character positions within the input sentence.
-
-## Tools Used:
-- Python 3.x
-- spaCy library (en_core_web_sm model)
-
-## Installation:
-To install the required dependencies, run the following:
-
-```bash
-pip install spacy
-python -m spacy download en_core_web_sm
 
 
-# Q2)Named Entity Recognition (NER) with spaCy
+
+##Q2)Named Entity Recognition (NER) with spaCy
 ## Project Description:
 This project demonstrates how to perform Named Entity Recognition (NER) using the spaCy library in Python. The script analyzes a sentence to identify named entities such as people, places, dates, and more. It prints the entity text, its label, and the character positions within the input sentence.
 
